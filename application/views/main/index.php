@@ -325,7 +325,7 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12">
                     <div class="action-box gray-bg">
-                        <h3><strong> Webster: </strong> The most powerful template ever on the market</h3>
+                        <h3><strong> z506: </strong> The most powerful hosting service ever on the market</h3>
                         <p>Create tailor-cut websites with the exclusive multi-purpose responsive template along with powerful features.</p>
                         <a class="button border black" href="#">
                             <span>Purchase Now</span>
