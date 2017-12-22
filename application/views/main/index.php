@@ -164,8 +164,8 @@
                             <span class="ti-layers-alt"></span>
                         </div>
                         <div class="feature-info">
-                            <h5 class="text-back">Many Style Available</h5>
-                            <p>You will begin to realise why t his exercise is called the Dickens Pattern.</p>
+                            <h5 class="text-back">Web Hosting</h5>
+                            <p>Achieve the maximum power with our server, take advantage of the quickest hosting and mail server</p>
                         </div>
                     </div>
                 </div>
@@ -175,8 +175,8 @@
                             <span class="ti-mouse"></span>
                         </div>
                         <div class="feature-info">
-                            <h5 class="text-back">Parallax Sections</h5>
-                            <p>Have a think about something that you do that you are maybe not.</p>
+                            <h5 class="text-back">Powerful Performance</h5>
+                            <p>Last technologic advances on our Servers and Networks</p>
                         </div>
                     </div>
                 </div>
@@ -186,8 +186,8 @@
                             <span class="ti-hand-open"></span>
                         </div>
                         <div class="feature-info">
-                            <h5 class="text-back">Unlimited layouts</h5>
-                            <p>Every aspect of this path that you can take today or do they feel Absorb</p>
+                            <h5 class="text-back">Support</h5>
+                            <p>Problems? Contact out Support Team 24/7</p>
                         </div>
                     </div>
                 </div>
@@ -197,8 +197,8 @@
                             <span class="ti-shield"></span>
                         </div>
                         <div class="feature-info">
-                            <h5 class="text-back">Powerful Performance  </h5>
-                            <p>Imagine reaching deep inside you for all the strength and wisdom that.</p>
+                            <h5 class="text-back">Security</h5>
+                            <p>Conjunction of hardware and software in order to bring very secure servers</p>
                         </div>
                     </div>
                 </div>
@@ -216,8 +216,8 @@
         <div class="container">
             <div class="row">
                 <div class="section-title text-center">
-                    <h6>Our Portfolio</h6>
-                    <h2>Webster's Creativity!</h2>
+                    <h6>Our Products</h6>
+                    <h2>z506 Creativity!</h2>
                 </div>
             </div>
             <div class="isotope-filters">
@@ -566,7 +566,7 @@
             <div class="footer-widget">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                        <p class="mt-15">Copyright © 2017 Webster. All Rights Reserved.</p>
+                        <p class="mt-15">Copyright &copy; 2017 Webster. All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
