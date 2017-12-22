@@ -107,7 +107,7 @@
                                         <h1 class="text-white">We're </h1>
                                     </div>
                                     <div class="agency-banner-right">
-                                        <span class="text-white">Webster</span>
+                                        <span class="text-white">z506</span>
                                         <p class="text-white mt-20">We will make your dreams come true</p>
                                         <a class="button move mt-10" href="#contact-us"> Let's talk </a>
                                     </div>
@@ -135,7 +135,7 @@
                     <blockquote>
                         The trouble with programmers is that you can never tell what a programmer is doing until it's too late. The future belongs to a different kind of person with.
                     </blockquote>
-                    <p>Adipisicing elit lorem ipsum dolor sit amet, consectetur. Vero magni natus id tenetur, aliquid explicabo future belongs to a different kind of person with possimus.  </p>
+                    <p>We offer a new way to build applications and bring our consulting service with compromise and responsability.</p>
                     <a class="button border icon mt-20" href="#">Read more <span class="ti-arrow-right"></span></a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
